@@ -5,7 +5,7 @@ botui.message.add({
     delay:3000,
     loading: true,
     photo: true,
-    content: 'Hello. This is Taylor, and I am a bot created by the customer service department.'
+    content: 'Hello. This is Taylor, and I work at the customer service department.'
 }).then(function(){
     return botui.message.add({
         delay:2000,
